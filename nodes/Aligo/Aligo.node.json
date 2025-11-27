@@ -1,0 +1,22 @@
+{
+	"node": "n8n-nodes-aligo.aligo",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Communication", "Marketing & Content"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://smartsms.aligo.in/admin/api/info.html"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://smartsms.aligo.in/smsapi.html"
+			}
+		]
+	},
+	"alias": ["sms", "text", "message", "aligo", "korea", "korean"],
+	"subcategories": {
+		"Communication": ["SMS"]
+	}
+}
